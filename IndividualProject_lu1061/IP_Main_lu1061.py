@@ -32,7 +32,7 @@ is my own original work.
 """
 import pygame as pg
 import random as rd
-from IndivProject import getDig, checkVal, digRecur
+from IP_UDF_lu1061 import getDig, checkVal, digRecur
 
 #sets the RGB color codes into readable global constants
 WHITE =(255,255,255) 
